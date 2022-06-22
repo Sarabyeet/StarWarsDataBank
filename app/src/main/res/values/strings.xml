@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Star Wars Data Bank</string>
+    <string name="home">Data Bank Home</string>
+    <string name="character_overview">Character overview</string>
+</resources>
