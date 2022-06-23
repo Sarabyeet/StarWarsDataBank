@@ -1,15 +1,13 @@
 package com.sarabyeet.limitless.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.fragment.app.commit
+import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupActionBarWithNavController
 import com.sarabyeet.limitless.R
 import com.sarabyeet.limitless.data.DataSource
 import com.sarabyeet.limitless.model.AppTile
-import com.sarabyeet.limitless.ui.fragments.ListFragment
 
 class MainActivity : AppCompatActivity() {
 
